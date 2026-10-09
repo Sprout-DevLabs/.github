@@ -1,4 +1,4 @@
-# 🌱 Sprout DevLabs
+# Sprout DevLabs
 
 Developer tools that make software projects easier to explore, understand, and build.
 
